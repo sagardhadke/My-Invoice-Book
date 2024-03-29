@@ -1,5 +1,12 @@
 # My Invoice Book
 
+<p align="center">
+    <img src="https://github.com/sagardhadke/My-Invoice-Book/assets/70995022/8db35b89-d2d5-4dea-b73d-8570ebdd7241"
+        height="130">
+</p>
+
+
+
 My Invoice Book is a free and open-source invoice generation and inventory management system designed to streamline your business processes. With a user-friendly interface and robust features, it empowers businesses of all sizes to efficiently manage their invoicing and inventory needs.
 
 ## Features
