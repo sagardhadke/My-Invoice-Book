@@ -1,10 +1,12 @@
 package net.uniquecomputer.billbook
 
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,6 +20,11 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
+        val bottom = findViewById<BottomNavigationView>(R.id.bottomNavigation)
+        //Create Toast when user when
+        bottom.setOnClickListener {
+            Toast.makeText(this, "Hey this is Toast", Toast.LENGTH_SHORT).show()
+        }
 
 
     }
