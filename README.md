@@ -37,6 +37,14 @@ My Invoice Book is a free and open-source invoice generation and inventory manag
 
 Get started with My Invoice Book today and take control of your invoicing and inventory management needs. Join our community of users and contributors to shape the future of My Invoice Book together!
 
+table>
+    <tr align="center">
+      <td>
+          <img src="https://github.com/sagardhadke/LockQR/assets/70995022/cb2f50f6-574e-4367-b707-64c3ea8c9887" width="320px" alt="Google Pay QR Code">
+      </td>
+    </tr>
+  </table>
+
 Donate Using Upi
 
 ```bash
