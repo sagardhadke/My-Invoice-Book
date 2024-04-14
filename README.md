@@ -38,3 +38,5 @@ My Invoice Book is a free and open-source invoice generation and inventory manag
 Get started with My Invoice Book today and take control of your invoicing and inventory management needs. Join our community of users and contributors to shape the future of My Invoice Book together!
 
 [Sign Up Now](#) | [Documentation](#) | [Contribute](#)
+
+<a href="https://www.buymeacoffee.com/sagardhadke" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
