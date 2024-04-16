@@ -37,6 +37,10 @@ My Invoice Book is a free and open-source invoice generation and inventory manag
 
 Get started with My Invoice Book today and take control of your invoicing and inventory management needs. Join our community of users and contributors to shape the future of My Invoice Book together!
 
+## Feedback
+
+If you have any feedback, please reach out to us at peaceunique2003@gmail.com
+
 ## Support and Donations
 
 You can contribute and support this project by doing any of the following:
